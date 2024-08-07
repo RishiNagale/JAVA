@@ -44,7 +44,6 @@ public class TransactionLoggerFilter implements Filter {
 	
 	 public void destroy() {
 			logger.info("Destroyed the filter {}",this);
- 
 	 }
  
 }
